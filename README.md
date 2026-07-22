@@ -217,6 +217,7 @@ Customer-Segmentation-Using-KMeans
 
 ---
 
+
 # 👩‍💻 Author
 
 **ruthushreeanoor**
@@ -226,7 +227,16 @@ Computer Science Engineering Student
 Interested in Machine Learning, Artificial Intelligence, Data Science, and Python Development.
 
 ---
+## 📝 Medium Article
 
+Read the complete walkthrough here:
+
+## 📝 Medium Article
+
+Read the complete walkthrough here:
+
+https://medium.com/@ruthushreeanoor/discovering-customer-segments-with-k-means-clustering-my-first-unsupervised-machine-learning-0adca0680e6e
+---
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
