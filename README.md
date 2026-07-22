@@ -153,7 +153,7 @@ Through this project, I learned:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Customer-Segmentation-Using-KMeans.git
+git clone https://github.com/ruthushreeanoor/Customer-Segmentation-Using-KMeans.git
 ```
 
 ## 2. Navigate to the Project Folder
